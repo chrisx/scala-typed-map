@@ -1,5 +1,3 @@
-package com.bookish.common
-
 /**
  * Map that retains type information of heterogeneous element keys and values
  * (Manifests only allow derivation of erased types from homogeneous collection types.
